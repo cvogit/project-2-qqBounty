@@ -1,0 +1,6 @@
+[submodule "react-qqbounty"]
+	path = react-qqbounty
+	url = https://github.com/cvogit/react-qqbounty.git
+[submodule "java-qqbounty"]
+	path = java-qqbounty
+	url = https://github.com/cvogit/java-qqbounty.git
